@@ -26,3 +26,14 @@ time, see who last modified something that might be causing a problem, who
 introduced an issue and when, and more. Using a VCS also means that if you
 screw things up or lose files, you can generally recover easily. In addition,
 you get all this for very little overhead.
+
+### Local Version Control Systems
+
+Many people’s version-control method of choice is to copy files into another
+directory (perhaps a time-stamped directory, if they’re clever). This approach
+is very common because it is so simple, but it is also incredibly error prone.
+It is easy to forget which directory you’re in and accidentally write to the
+wrong file or copy over files you don’t mean to.
+
+To deal with this issue, programmers long ago developed local VCSs that had a
+simple database that kept all the changes to files under revision control.
