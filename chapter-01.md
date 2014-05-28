@@ -16,6 +16,8 @@ specific versions later. Even though the examples in this book show software
 source code as the files under version control, in reality any type of file on
 a computer can be placed under version control.
 
+-- Missing paragraph: explain how VCS changed my life or something. --
+
 If you are a graphic or web designer and want to keep every version of an image
 or layout (which you certainly would), it is very wise to use a Version Control
 System (VCS). A VCS allows you to: revert files back to a previous state,
